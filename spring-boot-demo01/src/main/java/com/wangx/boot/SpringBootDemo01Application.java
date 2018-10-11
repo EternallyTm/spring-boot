@@ -1,4 +1,4 @@
-package com.wangx.boot.springbootdemo01;
+package com.wangx.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
